@@ -1,0 +1,10 @@
+stages:
+  - create database
+
+create database:
+  - define sources
+  - mine tables
+  - mine plays
+
+analise data:
+  - predict a parameter - linear regression
